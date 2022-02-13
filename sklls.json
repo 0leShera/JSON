@@ -1,8 +1,8 @@
 [
-{
-"Инструменты": "Postman, Charles, Fidder, Dev Tools, VPN, XCode, Android Studio, Terminal (MacOS), Jmeter, Redis",
-"Навыки": "Python, SQL, Git Bash, GIT, JSON, XML",
-"Умения": "Тестирование мобильных приложений, перехват мобильного трафика, нагрузочное тестирование, доступ к удаленным серверам, автоматизация рутинных задач"ч"",
-"Бонус": "Писать JSON прямо в терминале :)"
-}
+  {
+    "Инструменты": "Postman, Charles, Fidder, Dev Tools, VPN, XCode, Android Studio, Terminal (MacOS), Jmeter, Redis",
+    "Навыки": "Python, SQL, Git Bash, GIT, JSON, XML",
+    "Умения": "Тестирование мобильных приложений, перехват мобильного трафика, нагрузочное тестирование, доступ к удаленным серверам, автоматизация рутинных задач",
+    "Бонус": "Писать JSON прямо в терминале :)"
+  }
 ]
